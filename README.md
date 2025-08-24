@@ -1,8 +1,13 @@
 # 2108564_Geospatial-Data-Science-and-Analysis
 
 ## Introduction 
-- Q : เรียนเกี่ยวกับอะไร 
-- A : พื้นฐาน Data Science และ Data Analysis รวมถึง Tools ในการใช้วิเคราะห์ข้อมูลทาง Geospatial
+- Q : What topics do I learned from this subject.
+- A : Basic Data Science and Data Analysis including Tools for analyzing Geospatial Data.
+
+## Score Distribution
+- Assignment & Homework 80 %
+- Research 20 %
+- (Optional for myself) Mini Project for Geospatial Data Analysis
 
 ## Course Outline
 
