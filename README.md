@@ -1,7 +1,7 @@
 # 2108564_Geospatial-Data-Science-and-Analysis
 
 ## Introduction 
-- Q : What topics do I learned from this subject.
+- Q : What topics do I learned from this subject ?
 - A : Basic Data Science and Data Analysis including Tools for analyzing Geospatial Data.
 
 ## Score Distribution
