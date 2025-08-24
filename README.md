@@ -1,8 +1,8 @@
 # 2108564_Geospatial-Data-Science-and-Analysis
 
 ## Introduction 
-Q : เรียนเกี่ยวกับอะไร 
-A : พื้นฐาน Data Science และ Data Analysis รวมถึง Tools ในการใช้วิเคราะห์ข้อมูลทาง Geospatial
+- Q : เรียนเกี่ยวกับอะไร 
+- A : พื้นฐาน Data Science และ Data Analysis รวมถึง Tools ในการใช้วิเคราะห์ข้อมูลทาง Geospatial
 
 ## Course Syllabus
 
