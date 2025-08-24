@@ -8,9 +8,9 @@
 
 Week | Date | Topic | Youtube video link | Colab link| Assignment | Done |
 --- | --- | --- | --- | ---| --- | --- |
-1 | 5 Aug | Introduction นัดวันเรียน ตั้งกลุ่มไลน์ จัดการ MyCourseville สร้าง Github account แนะนำ Google Colab|-|[เอกสารประกอบการสอน Pandas](https://colab.research.google.com/drive/1AN9dUfIVpBLhzBKER0Dlj2gM1mZFPoxL?usp=sharing)|1. สร้าง Colab, Github Account, Pandas | ✅ |
+1 | 5 Aug | Introduction นัดวันเรียน ตั้งกลุ่มไลน์ จัดการ MyCourseville สร้าง Github account แนะนำ Google Colab|-|[เอกสารประกอบการสอน Pandas](https://colab.research.google.com/drive/1AN9dUfIVpBLhzBKER0Dlj2gM1mZFPoxL?usp=sharing)| No Assignment (สร้าง Colab, Github Account, ทำ Colab Pandas) | ✅ |
 2 | 12 Aug | วันหยุด | |
-3 | 19 Aug | Visualization using Python|-|[เอกสารประกอบการสอน visualization tools in Python](https://colab.research.google.com/drive/1DYa45aOMdMxpthMJ7Bi7SSYcQAarVouR?usp=sharing)| | ✅ |
+3 | 19 Aug | Visualization using Python|-|[เอกสารประกอบการสอน visualization tools in Python](https://colab.research.google.com/drive/1DYa45aOMdMxpthMJ7Bi7SSYcQAarVouR?usp=sharing)| Assignment 1 : BMA School | ✅ |
 4 | 26 Aug |  GeoPandas + Folium|-|[เอกสารประกอบการสอน Folium](https://colab.research.google.com/drive/1iesdO5U3x-OkQNOctfw0bwqYEfFJ8slW?usp=sharing)<br/>[เอกสารประกอบการสอน Geopandas](https://colab.research.google.com/drive/1Cw1_rTZp4GPxv1Q9F4k8vv6ON2s_3BoR?usp=sharing)|
 5 | 2 Sep| Spatial Statistics, an Introduction|-| (เป็น powerpoint ใน mycourseville)|2.การบ้าน
 6| 9 Sep|SQL1 คำสั่ง SELECT|-|[BigQuery](https://colab.research.google.com/drive/1Or7BpO-gtySs7BOOq2l-0vhWf18ITN9g?usp=sharing) , [แบบฝึกหัด SQL](https://colab.research.google.com/drive/13WeTdmqXNmRqOESGT4-dFdr8ssyS3ETv?usp=sharing)|3.งานในชั้นเรียน
