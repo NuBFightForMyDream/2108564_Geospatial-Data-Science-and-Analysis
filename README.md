@@ -9,6 +9,11 @@
 - Research 20 %
 - (Optional for myself) Mini Project for Geospatial Data Analysis
 
+## Prerequisites
+- Approved Elective for Senior Survey Engineering students. But Free Elective for other students
+- Strong Python Programming Background
+- A little bit knowledge from Python Library (NumPy , Pandas , Matplotlib , Seaborn , ...)
+
 ## Course Outline
 
 Week | Date | Topic | Youtube video link | Colab link| Assignment | Done |
