@@ -7,7 +7,7 @@
 ## Course Syllabus
 
 Week | Date | Topic | Youtube video link | Colab link| Assignment | Done |
---- | --- | --- | --- | ---|---
+--- | --- | --- | --- | ---| --- | --- |
 1 | 5 Aug | Introduction นัดวันเรียน ตั้งกลุ่มไลน์ จัดการ MyCourseville สร้าง Github account แนะนำ Google Colab|-|[เอกสารประกอบการสอน Pandas](https://colab.research.google.com/drive/1AN9dUfIVpBLhzBKER0Dlj2gM1mZFPoxL?usp=sharing)|1. สร้าง Colab, Github Account, Pandas | ✅ |
 2 | 12 Aug | วันหยุด |
 3 | 19 Aug | Visualization using Python|-|[เอกสารประกอบการสอน visualization tools in Python](https://colab.research.google.com/drive/1DYa45aOMdMxpthMJ7Bi7SSYcQAarVouR?usp=sharing)|
