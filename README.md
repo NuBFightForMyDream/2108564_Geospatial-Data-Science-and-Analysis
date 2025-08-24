@@ -4,7 +4,7 @@
 - Q : เรียนเกี่ยวกับอะไร 
 - A : พื้นฐาน Data Science และ Data Analysis รวมถึง Tools ในการใช้วิเคราะห์ข้อมูลทาง Geospatial
 
-## Course Syllabus
+## Course Outline
 
 Week | Date | Topic | Youtube video link | Colab link| Assignment | Done |
 --- | --- | --- | --- | ---| --- | --- |
