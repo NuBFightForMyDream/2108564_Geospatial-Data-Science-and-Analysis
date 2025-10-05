@@ -1,0 +1,132 @@
+country,demonym,id,iso2,tld,currency,population,density,area,gdpPerCap,median_age,language,website,calling_code,driving_side,continent,un_member,religion
+China,Chinese,CN,CN,.cn,Chinese Yuan,1413142846,147.2,9596960,"18,743,803",39.8,Chinese,https://www.gov.cn,86,right,Asia,TRUE,No Religion
+India,Indian,IN,IN,.in,Indian Rupee,1399179585,425.6,3287263,"3,912,686",29.5,Hindi,http://india.gov.in,91,left,Asia,TRUE,Hinduism
+United States,American,US,US,.us,United States Dollar,339665118,34.5,9833517,"29,184,890",38.5,English,https://www.usa.gov,1,right,North America,TRUE,Christianity
+Indonesia,Indonesian,ID,ID,.id,Rupiah,279476346,146.7,1904569,"1,396,300",31.2,Indonesian,https://indonesia.go.id,62,left,Asia,TRUE,Islam
+Pakistan,Pakistani,PK,PK,.pk,Pakistani Rupee,247653551,311.1,796095,"373,072",22.7,Urdu,http://www.pakistan.gov.pk,92,left,Asia,TRUE,Islam
+Nigeria,Nigerian,NG,NG,.ng,Naira,230842743,249.9,923768,"187,760",19.2,English,https://nigeria.gov.ng,234,right,Africa,TRUE,Christianity
+Brazil,Brazilian,BR,BR,.br,Brazilian Real,218689757,25.7,8515770,"2,179,412",34.7,Portuguese,https://www.gov.br,55,right,South America,TRUE,Christianity
+Bangladesh,Bangladeshi,BD,BD,.bd,Bangladeshi Taka,167184465,1126.1,148460,"450,119",29.2,Bengali,http://www.bangladesh.gov.bd,880,left,Asia,TRUE,Islam
+Russia,Russian,RU,RU,.ru,Russian Ruble,141698923,8.3,17098242,"2,173,836",41.5,Russian,http://gov.ru,7,right,Europe,TRUE,Christianity
+Mexico,Mexican,MX,MX,.mx,Mexican Peso,129875529,66.1,1964375,"1,852,723",30.6,Spanish,https://www.gob.mx,52,right,North America,TRUE,Christianity
+Japan,Japanese,JP,JP,.jp,Japanese Yen,123719238,327.4,377915,"4,026,211",49.5,Japanese,https://www.japan.go.jp,81,left,Asia,TRUE,No Religion
+Ethiopia,Ethiopian,ET,ET,.et,Bir,116462712,105.5,1104300,"126,773",20.2,Amharic,https://www.pmo.gov.et,251,right,Africa,TRUE,Christianity
+Philippines,Philippine,PH,PH,.ph,Philippine Peso,116434200,388.1,300000,"461,618",25.4,Filipino,https://www.gov.ph,63,right,Asia,TRUE,Christianity
+Democratic Republic of the Congo,Congolese,CD,CD,.cd,Congolese Franc,111859928,47.7,2344858,"62,551",16.8,French,https://www.primature.gouv.cd,243,right,Africa,TRUE,Christianity
+Egypt,Egyptian,EG,EG,.eg,Egyptian Pound,109546720,109.4,1001450,"389,060",24.1,Arabic,https://www.sis.gov.eg,20,right,Africa,TRUE,Islam
+Vietnam,Vietnamese,VN,VN,.vn,Vietnamese Dong,104799174,316.4,331210,"476,388",32.7,Vietnamese,https://vietnam.gov.vn,84,right,Asia,TRUE,No Religion
+Iran,Iranian,IR,IR,.ir,Iranian Rial,87590873,53.1,1648195,"436,906",33.3,Persian,https://president.ir/en,98,right,Asia,TRUE,Islam
+Germany,German,DE,DE,.de,Euro,84220184,235.9,357022,"4,659,929",46.7,German,https://www.deutschland.de,49,right,Europe,TRUE,Christianity
+Turkey,Turkish,TR,TR,.tr,Turkish Lira,83593483,106.7,783562,"1,323,255",33.6,Turkish,[ลิงค์ที่น่าสงสัยถูกลบ],90,right,Asia,TRUE,Islam
+Thailand,Thai,TH,TH,.th,Thai Baht,69794997,136,513120,"526,411",41,Thai,https://www.thaigov.go.th,66,left,Asia,TRUE,Buddhism
+France,French,FR,FR,.fr,Euro,68521974,106.4,643801,"3,162,079",42.4,French,https://www.service-public.fr,33,right,Europe,TRUE,Christianity
+United Kingdom,British,GB,GB,.uk,British Pound,68138484,279.7,243610,"3,643,834",40.6,English,https://www.gov.uk,44,left,Europe,TRUE,Christianity
+Tanzania,Tanzanian,TZ,TZ,.tz,Tanzanian Shilling,65642682,69.3,947300,"85,980",18.9,Swahili,https://www.tanzania.go.tz,255,left,Africa,TRUE,Christianity
+Italy,Italian,IT,IT,.it,Euro,61021855,202.5,301340,"2,372,775",48.1,Italian,https://www.italia.it,39,right,Europe,TRUE,Christianity
+South Africa,South African,ZA,ZA,.za,Rand,58048332,47.6,1219090,"400,261",30.1,Zulu,https://www.gov.za,27,left,Africa,TRUE,Christianity
+Myanmar,Burmese,MM,MM,.mm,Kyat,57970293,85.7,676578,"65,211",30.4,Burmese,https://www.myanmar.gov.mm,,right,Asia,TRUE,Buddhism
+Kenya,Kenyan,KE,KE,.ke,Kenyan Shilling,57052004,98.3,580367,"124,499",20.9,English,http://www.president.go.ke,254,left,Africa,TRUE,Christianity
+South Korea,South Korean,KR,KR,.kr,South Korean Won,51966948,521.1,99720,"1,712,793",45,Korean,http://www.korea.go.kr,82,right,Asia,TRUE,No Religion
+Colombia,Colombian,CO,CO,.co,Colombian Peso,49336454,43.3,1138910,"418,542",32.4,Spanish,https://www.gov.co,57,right,South America,TRUE,Christianity
+Sudan,Sudanese,SD,SD,.sd,Sudanese Pound,49197555,26.4,1861484,"36,729",19.1,Arabic,http://www.sudan.gov.sd/index.php/en,249,right,Africa,TRUE,Islam
+Uganda,Ugandan,UG,UG,.ug,Ugandan Shilling,47729952,198,241038,"48,243",16.1,English,http://www.statehouse.go.ug,256,left,Africa,TRUE,Christianity
+Spain,Spanish,ES,ES,.es,Euro,47222613,93.4,505370,"1,722,746",46.3,Spanish,https://administracion.gob.es,34,right,Europe,TRUE,Christianity
+Argentina,Argentinian,AR,AR,.ar,Argentine Convertible Peso,46621847,16.8,2780400,"633,267",33,Spanish,https://www.argentina.gob.ar,54,right,South America,TRUE,Christianity
+Algeria,Algerian,DZ,DZ,.dz,Algerian Dinar,44758398,18.8,2381740,"263,620",28.9,Arabic,https://www.el-mouradia.dz/ar/home,213,right,Africa,TRUE,Islam
+Ukraine,Ukrainian,UA,UA,.ua,Hryvnia,43306477,71.8,603550,"190,741",45.3,Ukrainian,https://ukraine.ua,380,right,Europe,TRUE,Christianity
+Iraq,Iraqi,IQ,IQ,.iq,Iraqi Dinar,41266109,94.1,438317,"279,641",22.1,Arabic,https://gds.gov.iq,964,right,Asia,TRUE,Islam
+Afghanistan,Afghan,AF,AF,.af,Afghani,39232003,60.2,652230,"14,174",19.9,Pashto,https://alemarahenglish.af,93,right,Asia,TRUE,Islam
+Canada,Canadian,CA,CA,.ca,Canadian Dollar,38516736,3.9,9984670,"2,241,253",42.4,English,https://www.canada.ca,1,right,North America,TRUE,Christianity
+Poland,Polish,PL,PL,.pl,Polish Zloty,37991766,121.5,312685,"914,696",42.4,Polish,https://www.gov.pl,48,right,Europe,TRUE,Christianity
+Morocco,Moroccan,MA,MA,.ma,Moroccan Dirham,37067420,51.7,716550,"154,431",30.2,Arabic,http://www.maroc.ma/en,212,right,Africa,TRUE,Islam
+Angola,Angolan,AO,AO,.ao,Kwanza,35981281,28.9,1246700,"113,304",16.2,Portuguese,https://www.governo.gov.ao,244,right,Africa,TRUE,Christianity
+Saudi Arabia,Saudi Arabian,SA,SA,.sa,Saudi Riyal,35939806,16.7,2149690,"1,237,530",32,Arabic,http://www.saudi.gov.sa,966,right,Asia,TRUE,Islam
+Malaysia,Malaysian,MY,MY,.my,Malaysian Ringgit,34219975,103.7,329847,"421,972",31.4,Malay,https://www.malaysia.gov.my,60,left,Asia,TRUE,Islam
+Ghana,Ghanaian,GH,GH,.gh,Ghana Cedi,33846114,141.9,238533,"73,766",21.3,English,https://www.ghana.gov.gh,233,right,Africa,TRUE,Christianity
+Mozambique,Mozambican,MZ,MZ,.mz,Mozambican Metical,32513805,40.7,799380,"18,406",17.2,Portuguese,http://www.portaldogoverno.gov.mz,258,left,Africa,TRUE,Christianity
+Peru,Peruvian,PE,PE,.pe,Nuevo Sol,32440172,25.2,1285216,"289,222",30.1,Spanish,https://www.gob.pe,51,right,South America,TRUE,Christianity
+Yemen,Yemeni,YE,YE,.ye,Yemeni Rial,31565602,59.8,527968,"11,007",21.6,Arabic,http://www.yemen.gov.ye,967,right,Asia,TRUE,Islam
+Uzbekistan,Uzbekistani,UZ,UZ,.uz,Uzbekistani Som,31360836,70.1,447400,"80,391",28.7,Uzbek,https://www.gov.uz/en,998,right,Asia,TRUE,Islam
+Nepal,Nepalese,NP,NP,.np,Nepalese Rupee,30899443,209.9,147181,"39,406",27.1,Nepali,https://nepal.gov.np,977,left,Asia,TRUE,Hinduism
+Venezuela,Venezuelan,VE,VE,.ve,Sovereign Bolivar,30518260,33.5,912050,"129,313",30.8,Spanish,https://mppre.gob.ve,58,right,South America,TRUE,Christianity
+Cameroon,Cameroonian,CM,CM,.cm,Central African Cfa Franc,30135732,63.4,475440,"44,341",18.8,English,https://www.prc.cm/fr,237,right,Africa,TRUE,Christianity
+Ivory Coast,Ivoirian,CI,CI,.ci,West African Cfa Franc,29344847,91,322463,"70,018",21,French,https://www.gouv.ci,225,right,Africa,TRUE,Islam
+Madagascar,Malagasy,MG,MG,.mg,Ariary,28812195,49.1,587041,"14,954",21,Malagasy,https://www.presidence.gov.mg,261,right,Africa,TRUE,Christianity
+Australia,Australian,AU,AU,.au,Australian Dollar,26461166,3.4,7741220,"1,752,193",37.9,English,https://www.australia.gov.au,61,left,Oceania,TRUE,Christianity
+North Korea,North Korean,KP,KP,.kp,North Korean Won,26072217,216.3,120538,"15,176",35.6,Korean,,,right,Asia,TRUE,No Religion
+Niger,Nigerien,NE,NE,.ne,West African Cfa Franc,25396840,20,1267000,"15,310",15.1,French,http://www.presidence.ne,227,right,Africa,TRUE,Islam
+Taiwan,Taiwanese,TW,TW,.tw,New Taiwan Dollar,23588613,655.6,35980,"804,889",44,Chinese,https://www.taiwan.gov.tw,886,right,Asia,TRUE,Buddhism
+Sri Lanka,Sri Lankan,LK,LK,.lk,Sri Lankan Rupee,23326272,355.5,65610,"76,187",33.9,Sinhala,https://www.gov.lk/index.php,94,left,Asia,TRUE,Buddhism
+Syria,Syrian,SY,SY,.sy,Syrian Pound,22933531,122.4,187437,"18,595",23.9,Arabic,http://www.moi.gov.sy,963,right,Asia,TRUE,Islam
+Burkina Faso,Burkinabe,BF,BF,.bf,West African Cfa Franc,22489126,82,274200,"19,176",18.5,French,https://www.gouvernement.gov.bf/accueil,226,right,Africa,TRUE,Islam
+Mali,Malian,ML,ML,.ml,West African Cfa Franc,21359722,17.2,1240192,"18,827",16.3,French,http://www.primature.gov.ml,223,right,Africa,TRUE,Islam
+Malawi,Malawian,MW,MW,.mw,Malawian Kwacha,21279597,179.6,118484,"12,558",20,English,http://www.malawi.gov.mw,265,left,Africa,TRUE,Christianity
+Zambia,Zambian,ZM,ZM,.zm,Zambian Kwacha,20216029,26.9,752618,"29,136",18.2,English,http://www.statehouse.gov.zm,260,left,Africa,TRUE,Christianity
+Kazakhstan,Kazakhstani,KZ,KZ,.kz,Kazakhstani Tenge,19543464,7.2,2724900,"288,406",31.7,Kazakh,https://www.gov.kz,7,right,Asia,TRUE,Islam
+Chile,Chilean,CL,CL,.cl,Chilean Peso,18549457,24.5,756102,"330,267",36.6,Spanish,https://www.thisischile.cl/?lang=en,56,right,South America,TRUE,Christianity
+Chad,Chadian,TD,TD,.td,Central African Cfa Franc,18523165,14.4,1284000,"16,799",16.5,Arabic,,235,right,Africa,TRUE,Islam
+Senegal,Senegalese,SN,SN,.sn,West African Cfa Franc,18384660,93.5,196722,"27,775",19,French,https://www.sec.gouv.sn,221,right,Africa,TRUE,Islam
+Romania,Romanian,RO,RO,.ro,Romanian Leu,18326327,76.9,238391,"382,768",45.1,Romanian,http://www.guv.ro,40,right,Europe,TRUE,Christianity
+Guatemala,Guatemalan,GT,GT,.gt,Quetzal,17980803,165.1,108889,"95,003",24.4,Spanish,https://www.guatemala.gob.gt,502,right,North America,TRUE,Christianity
+Ecuador,Ecuadorian,EC,EC,.ec,United States Dollar,17483326,61.7,283561,"124,676",27.7,Spanish,https://www.gob.ec,593,right,South America,TRUE,Christianity
+Netherlands,Dutch,NL,NL,.nl,Euro,17463930,420.4,41543,"1,227,544",42.2,Dutch,https://www.government.nl,31,right,Europe,TRUE,Christianity
+Cambodia,Cambodian,KH,KH,.kh,Riel,16891245,93.3,181035,"29,504",27.6,Khmer,https://www.ccc.gov.kh,855,right,Asia,TRUE,Buddhism
+Zimbabwe,Zimbabwean,ZW,ZW,.zw,Zimbabwe an ZiG,15418674,39.5,390757,"26,418",21,English,https://www.zim.gov.zw/index.php,263,left,Africa,TRUE,Christianity
+Benin,Beninese,BJ,BJ,.bj,West African Cfa Franc,14219908,126.3,112622,"17,396",17.1,French,https://www.gouv.bj,229,right,Africa,TRUE,Christianity
+Guinea,Guinean,GN,GN,.gn,Guinean Franc,13607249,55.3,245857,"20,846",19.3,French,http://www.presidence.gov.gn,224,right,Africa,TRUE,Islam
+Rwanda,Rwandese,RW,RW,.rw,Rwandan Franc,13400541,508.8,26338,"13,312",20.5,Kinyarwanda,https://www.gov.rw,250,right,Africa,TRUE,Christianity
+Burundi,Burundian,BI,BI,.bi,Burundian Franc,13162952,473,27830,"4,032",18.2,Kirundi,https://www.presidence.gov.bi,257,right,Africa,TRUE,Christianity
+Somalia,Somalian,SO,SO,.so,Somali Shilling,12693796,19.9,637657,"10,420",19,Somali,https://web.mfa.gov.so,252,right,Africa,TRUE,Islam
+Bolivia,Bolivian,BO,BO,.bo,Boliviano,12186079,11.1,1098581,"44,008",26.2,Spanish,https://www.mingobierno.gob.bo,591,right,South America,TRUE,Christianity
+South Sudan,South Sudanese,SS,SS,.ss,South Sudanese Pound,12118379,18.8,644329,"4,616",18.7,Arabic,https://mofaic.gov.ss,211,right,Africa,TRUE,Christianity
+Tunisia,Tunisian,TN,TN,.tn,Tunisian Dinar,11976182,73.2,163610,"46,181",34,Arabic,https://www.social.gov.tn/en,216,right,Africa,TRUE,Islam
+Belgium,Belgian,BE,BE,.be,Euro,11913633,390.3,30528,"664,564",41.9,Dutch,https://www.belgium.be,32,right,Europe,TRUE,Christianity
+Haiti,Haitian,HT,HT,.ht,Gourde,11470261,413.3,27750,"18,751",24.7,French,http://primature.gouv.ht,509,right,North America,TRUE,Christianity
+Jordan,Jordanian,JO,JO,.jo,Jordanian Dinar,11086716,124.1,89342,"47,452",24.6,Arabic,https://psd.gov.jo/en-us,962,right,Asia,TRUE,Islam
+Cuba,Cuban,CU,CU,.cu,Cuban Peso,10985974,99.1,110860,"201,986",42.3,Spanish,http://www.cuba.cu,53,right,North America,TRUE,Christianity
+Dominican Republic,Dominican,DO,DO,.do,Dominican Peso,10790744,221.7,48670,"124,282",28.9,Spanish,https://www.dominicanrepublic.com,1,right,North America,TRUE,Christianity
+Czech Republic,Czech,CZ,CZ,.cz,Czech Koruna,10706242,135.8,78867,"345,037",43.9,Czech,https://www.czechia.eu,,right,Europe,TRUE,No Religion
+Sweden,Swedish,SE,SE,.se,Swedish Krona,10536338,23.4,450295,"610,118",41,Swedish,https://sweden.se,46,right,Europe,TRUE,No Religion
+Greece,Greek,GR,GR,.gr,Euro,10497595,79.6,131957,"257,145",46.2,Greek,https://www.government.gov.gr,30,right,Europe,TRUE,Christianity
+Azerbaijan,Azerbaijani,AZ,AZ,.az,Azerbaijani Manat,10420515,120.3,86600,"78,721",33.8,Azerbaijani,http://mfa.gov.az/en,994,right,Asia,TRUE,Islam
+Portugal,Portuguese,PT,PT,.pt,Euro,10223150,111,92090,"308,683",46,Portuguese,https://www.portugal.gov.pt,351,right,Europe,TRUE,Christianity
+United Arab Emirates,Emirati,AE,AE,.ae,United Arab Emirates Dirham,9973449,119.3,83600,"537,079",35.7,Arabic,https://u.ae,971,right,Asia,TRUE,Islam
+Papua New Guinea,Papua New Guinean,PG,PG,.pg,Kina,9819350,21.2,462840,"31,609",21.6,English,https://papuanewguinea.travel,675,left,Oceania,TRUE,Christianity
+Hungary,Hungarian,HU,HU,.hu,Hungarian Forint,9670009,103.9,93028,"222,905",44.5,Hungarian,https://www.kormany.hu,36,right,Europe,TRUE,Christianity
+Honduras,Catracho,HN,HN,.hn,Honduran Lempira,9571352,85.4,112090,"31,717",25.3,Spanish,https://www.honduras.travel/en,504,right,North America,TRUE,Christianity
+Belarus,Belarusian,BY,BY,.by,Belarusian Ruble,9383853,45.2,207600,"72,873",41.7,Belarusian,https://www.belarus.by,375,right,Europe,TRUE,Christianity
+Tajikistan,Tajikistani,TJ,TJ,.tj,Tajikistani Somoni,9245937,64.2,144100,"10,492",22.7,Tajik,https://www.mfa.tj/en,992,right,Asia,TRUE,Islam
+Israel,Israeli,IL,IL,.il,New Shekel,9043387,412.2,21937,"540,380",30.1,Hebrew,https://www.gov.il,972,right,Asia,TRUE,Judaism
+Austria,Austrian,AT,AT,.at,Euro,8940860,106.6,83871,"521,642",44.8,German,https://www.oesterreich.gv.at/en,43,right,Europe,TRUE,Christianity
+Sierra Leone,Sierra Leonean,SL,SL,.sl,Leone,8908040,124.2,71740,"3,481",19.2,English,https://statehouse.gov.sl,232,right,Africa,TRUE,Islam
+Togo,Togolese,TG,TG,.tg,West African Cfa Franc,8703961,153.3,56785,"8,087",20.5,French,https://www.republicoftogo.com,228,right,Africa,TRUE,Christianity
+Switzerland,Swiss,CH,CH,.ch,Swiss Franc,8563760,207.5,41277,"936,564",44,German,https://www.admin.ch,41,right,Europe,TRUE,Christianity
+Laos,Laotian,LA,LA,.la,Lao Kip,7852377,33.2,236800,"15,362",25,Lao,https://www.tourismlaos.org,856,right,Asia,TRUE,Buddhism
+Paraguay,Paraguayan,PY,PY,.py,Paraguayan Guaraní,7439863,18.3,406752,"41,722",31.3,Spanish,https://www.paraguay.gov.py,595,right,South America,TRUE,Christianity
+Hong Kong,Hong Konger,HK,HK,.hk,Hong Kong Dollar,7288167,6577.8,1108,"407,107",46.8,Chinese,http://www.gov.hk,852,left,Asia,FALSE,No Religion
+Libya,Libyan,LY,LY,.ly,Libyan Dinar,7252573,4.1,1759540,"40,537",26.1,Arabic,https://ejraat.gov.ly/?l=en,218,right,Africa,TRUE,Islam
+Bulgaria,Bulgarian,BG,BG,.bg,Bulgarian Lev,6827736,61.6,110879,"90,213",44.7,Bulgarian,http://www.government.bg,359,right,Europe,TRUE,Christianity
+Serbia,Serbian,RS,RS,.rs,Serbian Dinar,6693375,86.4,77474,"9,397",43.7,Serbian,https://www.srbija.gov.rs,381,right,Europe,TRUE,Christianity
+El Salvador,Salvadoran,SV,SV,.sv,United States Dollar,6602370,313.8,21041,"32,488",29.2,Spanish,https://elsalvador.travel/en,503,right,North America,TRUE,Christianity
+Nicaragua,Nicaraguan,NI,NI,.ni,Nicaraguan Cordoba,6359689,48.8,130370,"15,671",28.5,Spanish,https://www.visitnicaragua.us,505,right,North America,TRUE,Christianity
+Eritrea,Eritrean,ER,ER,.er,Nakfa,6274796,53.4,117600,"2,383",21,Tigrinya,http://www.shabait.com/index.php,291,right,Africa,TRUE,Islam
+Kyrgyzstan,Kyrgyzstani,KG,KG,.kg,Kyrgyz Som,6122781,30.6,199951,"12,560",28.1,Kyrgyz,https://www.gov.kg/ky,996,right,Asia,TRUE,Islam
+Singapore,Singaporean,SG,SG,.sg,Singapore Dollar,5975383,8310.7,719,"547,387",38.9,English,https://www.gov.sg,65,left,Asia,TRUE,Buddhism
+Denmark,Danish,DK,DK,.dk,Danish Krone,5946984,138,43094,"429,457",42.2,Danish,https://denmark.dk,45,right,Europe,TRUE,No Religion
+Turkmenistan,Turkmenistani,TM,TM,.tm,Turkmenistan New Manat,5690818,11.7,488100,"67,009",30.7,Turkmen,http://www.turkmenistan.gov.tm,993,right,Asia,TRUE,Islam
+Republic of the Congo,Congolese,CG,CG,.cg,Central African Cfa Franc,5677493,16.6,342000,"15,344",20.5,French,https://gouvernement.cg,,right,Africa,TRUE,Christianity
+Finland,Finnish,FI,FI,.fi,Euro,5614571,16.6,338145,"299,836",43.2,Finnish,https://finland.fi,358,right,Europe,TRUE,Christianity
+Norway,Norwegian,NO,NO,.no,Norwegian Krone,5597924,17.3,323802,"483,727",40.6,Norwegian,http://www.norway.no,47,right,Europe,TRUE,No Religion
+Central African Republic,Central African,CF,CF,.cf,Central African Cfa Franc,5552228,8.9,622984,"2,395",20.2,Sango,,420,right,Africa,TRUE,Christianity
+Liberia,Liberian,LR,LR,.lr,Liberian Dollar,5506280,49.4,111369,"3,265",19.7,English,https://www.mofa.gov.lr,231,right,Africa,TRUE,Christianity
+Slovakia,Slovak,SK,SK,.sk,Euro,5425319,110.6,49035,"141,776",42.5,Slovak,https://www.slovakia.com,421,right,Europe,TRUE,Christianity
+Lebanon,Lebanese,LB,LB,.lb,Lebanese Pound,5331203,512.6,10400,"39,303",35.8,Arabic,https://www.ministryinfo.gov.lb/en,961,right,Asia,TRUE,Islam
+Ireland,Irish,IE,IE,.ie,Euro,5323991,75.8,70273,"577,389",39.8,English,http://www.gov.ie,44,left,Europe,TRUE,Christianity
+Costa Rica,Costa Rican,CR,CR,.cr,Costa Rican Colon,5256612,102.9,51100,"68,380",35,Spanish,https://www.presidencia.go.cr,506,right,North America,TRUE,Christianity
+New Zealand,New Zealander,NZ,NZ,.nz,New Zealand Dollar,5109702,19,268838,"260,236",37.7,English,https://www.govt.nz,64,left,Oceania,TRUE,Christianity
+Georgia,Georgian,GE,GE,.ge,Georgian Lari,4927228,70.7,69700,"24,605",38,Georgian,https://www.gov.ge,995,right,Asia,TRUE,Christianity
+Panama,Panamanian,PA,PA,.pa,United States Dollar,4404108,58.4,75420,"76,522",31.2,Spanish,https://visitpanama.com/?lang=en,507,right,North America,TRUE,Christianity
+Mauritania,Mauritanian,MR,MR,.mr,Mauritanian Ouguiya,4244878,4.1,1030700,"10,997",21.9,Arabic,,222,right,Africa,TRUE,Islam
+Croatia,Croatian,HR,HR,.hr,Euro,4169239,73.7,56594,"71,552",44.8,Croatian,https://www.vlada.hr,385,right,Europe,TRUE,Christianity
+Oman,Omani,OM,OM,.om,Omani Rial,3833465,12.4,309500,"114,666",27.1,Arabic,https://www.oman.om,968,right,Asia,TRUE,Islam
+Bosnia and Herzegovina,Herzegovinian,BA,BA,.ba,Convertible Mark,3807764,74.4,51197,"24,530",43.1,Bosnian,http://www.fbihvlada.gov.ba,387,right,Europe,TRUE,Christianity
